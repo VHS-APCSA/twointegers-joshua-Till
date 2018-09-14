@@ -8,10 +8,13 @@ For problem 2.15 write a method named arithmetic() and use the two instance vari
 to calculate the values of sum, product, difference and quotient.
 The method should return a String that displays the results.
 Something like "5 + 3 = 8, 5 * 3 = 15, 5 / 3 = 1, 5 % 3 = 2" with 5 and 3 replaced with your actual numbers.
+
 For problem 2.16 write a method named larger() that returns the larger integer. 
 If they're equal than it doesn't matter which one you return.
+
 For problem 2.25 write a method called isEven() that returns a boolean if the sum of the 
 two integers is even and false if the sum is odd.
+
 For problem 2.26 return a boolean that is true if the first int is a multiple of the 
 second int and false otherwise.
 
