@@ -56,7 +56,30 @@ public class TwoIntegers
 			return num1;
 		}
 	}
-	
+	public boolean isEven()
+	{
+		int sum = num1 + num2;
+		if(sum % 2 == 0)
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+	public boolean multiple()
+	{
+		if(num2 % num1 == 0)
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
 }
+
 
 
